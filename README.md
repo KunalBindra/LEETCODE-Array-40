@@ -53,4 +53,3 @@ The `dfs` function will explore all possible combinations by recursively calling
 - Sorting the candidates array and skipping duplicates helps to optimize the solution.
 - The `dfs` function recursively builds the combinations by adding candidates to the `path` and removing them when backtracking.
 
-**Would you like to continue with a more detailed dry run, or do you have any specific questions about the code?**
